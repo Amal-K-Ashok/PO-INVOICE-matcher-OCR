@@ -1,3 +1,6 @@
+Please find the Output folder for the working video
+
+
 🧾 Batch PO vs Invoice Comparator (Streamlit + Gemini) 📘 Overview This project is a Streamlit web application that compares Purchase Orders (POs) and Invoices automatically. It uses pdfplumber to extract text from PDFs and Google Gemini AI to interpret the content into structured JSON. Then, it performs intelligent item-by-item matching between PO and Invoice entries to highlight matches, mismatches, or partial matches.
 
 🚀 Key Features • 📄 Upload multiple Purchase Orders and Invoices (PDF format). • 🤖 Automatic extraction of structured data using Gemini AI. • 🔍 Smart fuzzy matching of item descriptions, prices, and totals. • 🎨 Color-coded comparison tables using Streamlit and pandas. • ⚙️ Adjustable similarity threshold for item matching. • 🧮 Summary of matched and mismatched items for each pair.
